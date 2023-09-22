@@ -1,4 +1,4 @@
-# mary
+# Aluramid
 
 Aluna: Maria Eduarda Loiola Vasconcellos. n27
 
